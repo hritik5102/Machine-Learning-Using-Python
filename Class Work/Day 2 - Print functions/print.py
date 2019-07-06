@@ -1,0 +1,27 @@
+print("Hello")
+print('hi')
+print("Banglore\nComputer\nEducation")
+print("Banglore\tComputer\tEducation")
+print("BCE\\nBathinda")
+print("BCE"+"Bathinda")
+print("BCE","Bathinda")
+print("BCE "*3)
+a , b = 10, 20
+print(a,b)
+print(a, b, sep="")
+print(a,b,sep=',')
+print(a,b,sep='-----')
+print("Hello",end='')
+print("BCE", end='\t\n')
+x = 10
+print('value=%i ' % x)
+f = 10.343
+print('value=%.2f ' % f)
+name  = 'Banglore Computer Education'
+print('Hi (%20s)'%name)
+print('Hi (%-20s)'%name)
+print('Hi (%s)' % name[0:6])
+print(f"Hello {name}")
+print("hello {}".format(name))
+print("a = {} b = {}".format(a,b))
+print("BCE = {t}".format(t= "Banglore Computer Education"))
