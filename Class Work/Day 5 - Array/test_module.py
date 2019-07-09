@@ -1,0 +1,1 @@
+shopping_list = [1,2,3,'Jet','BMW','nirma','apple']
