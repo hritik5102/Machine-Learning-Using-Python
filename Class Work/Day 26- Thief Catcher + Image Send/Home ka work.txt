@@ -1,0 +1,28 @@
+Day 26 
+* Added new feature of sending image as attachment
+* How to create .exe from .py file
+
+.UI File to .Py File
+------------------------
+python -m PyQt5.uic.pyuic -x text.ui -o text.py
+
+PyInstaller 
+------------------------
+pip install pyinstaller
+python3 -m PyInstaller login.py
+
+How to execute login file with csv file path
+------------------------------------------------
+python login.py path_to_csv_file
+
+Backup all packages name into one file
+------------------------
+pip freeze > requirement.txt
+
+Install all packages
+------------------------
+pip install -r requirement.txt
+
+See this Decision Tree video
+------------------------
+https://www.youtube.com/watch?v=atw7hUrg3_8

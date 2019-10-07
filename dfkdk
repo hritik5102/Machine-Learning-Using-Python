@@ -1,0 +1,286 @@
+[33mfaccb9e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to faccb9eb8a58e5cd4da12ca6f06cf66f5643e64a
+[33mfaccb9e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{1}: reset: moving to faccb9eb8a58e5cd4da12ca6f06cf66f5643e64a
+[33m71cf42c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: revert: Revert "Create 255_3.txt"
+[33m98dc38a[m HEAD@{3}: revert: Revert "Create 257_2.txt"
+[33m6bc4321[m HEAD@{4}: revert: Revert "Create 258_4.txt"
+[33mfb4255b[m HEAD@{5}: revert: Revert "Create 259_3.txt"
+[33ma518203[m HEAD@{6}: commit: Create 299_1.txt
+[33mdfae4f3[m HEAD@{7}: commit: Create 298_4.txt
+[33ma81630a[m HEAD@{8}: commit: Create 297_4.txt
+[33m5c02f74[m HEAD@{9}: commit: Create 296_2.txt
+[33m6d7356e[m HEAD@{10}: commit: Neg FIles
+[33m6b207ed[m HEAD@{11}: commit: Create 28_2.txt
+[33m67124f6[m HEAD@{12}: commit: Create 289_3.txt
+[33m0bcf996[m HEAD@{13}: commit: Create 287_4.txt
+[33mf6f6064[m HEAD@{14}: commit: Create 286_1.txt
+[33m37a6db6[m HEAD@{15}: commit: Create 288_1.txt
+[33md3995c7[m HEAD@{16}: commit: Create 285_3.txt
+[33mc5491ba[m HEAD@{17}: commit: Create 284_2.txt
+[33m621c937[m HEAD@{18}: commit: Create 283_1.txt
+[33m096bd5e[m HEAD@{19}: commit: Create 282_1.txt
+[33mb896b71[m HEAD@{20}: commit: Create 281_1.txt
+[33m47b2fed[m HEAD@{21}: commit: Create 280_2.txt
+[33m7f93e90[m HEAD@{22}: commit: Create 27_1.txt
+[33mac11318[m HEAD@{23}: commit: Create 279_1.txt
+[33m8a412f5[m HEAD@{24}: commit: Create 277_4.txt
+[33mb3dff02[m HEAD@{25}: commit: Create 278_1.txt
+[33m5a265c7[m HEAD@{26}: commit: Create 276_2.txt
+[33md58c6ed[m HEAD@{27}: commit: Create 275_3.txt
+[33m3f2e1d8[m HEAD@{28}: commit: Create 274_2.txt
+[33m8bfe9fa[m HEAD@{29}: commit: Create 273_1.txt
+[33ma094ca9[m HEAD@{30}: commit: Create 272_2.txt
+[33m079fa8d[m HEAD@{31}: commit: Create 271_1.txt
+[33mfe4cc3c[m HEAD@{32}: commit: Create 270_1.txt
+[33m0974237[m HEAD@{33}: commit: Create 26_3.txt
+[33m1db419d[m HEAD@{34}: commit: Create 269_1.txt
+[33m5f6a604[m HEAD@{35}: commit: Create 268_1.txt
+[33m7d624ba[m HEAD@{36}: commit: Create 267_3.txt
+[33mdc968de[m HEAD@{37}: commit: Create 266_3.txt
+[33m5191f12[m HEAD@{38}: commit: Create 265_1.txt
+[33ma34c9cf[m HEAD@{39}: revert: Revert "Create 263_4.txt"
+[33m942c19c[m HEAD@{40}: revert: Revert "Create 264_2.txt"
+[33m2d3ee4a[m HEAD@{41}: commit: Create 264_2.txt
+[33m44c776c[m HEAD@{42}: commit: Create 263_4.txt
+[33m49f8803[m HEAD@{43}: commit: Create 262_4.txt
+[33m19f62cf[m HEAD@{44}: commit: Create 261_4.txt
+[33mce8d3ae[m HEAD@{45}: commit: Create 260_4.txt
+[33mc3f6da0[m HEAD@{46}: commit: Create 25_1.txt
+[33mc02f116[m HEAD@{47}: commit: Create 259_3.txt
+[33m1d6a5a5[m HEAD@{48}: commit: Create 258_4.txt
+[33m9729318[m HEAD@{49}: commit: Create 257_2.txt
+[33m36fd044[m HEAD@{50}: commit: Create 256_1.txt
+[33m3d44e93[m HEAD@{51}: commit: Create 255_3.txt
+[33mf8f1f41[m HEAD@{52}: commit: Create 254_1.txt
+[33mfaccb9e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{53}: commit: Create 253_3.txt
+[33m94a8ae2[m HEAD@{54}: commit: Create 252_4.txt
+[33m338aa11[m HEAD@{55}: commit: Create 251_3.txt
+[33mb9f6fac[m HEAD@{56}: commit: Create 250_3.txt
+[33m950b5d6[m HEAD@{57}: commit: Create 24_1.txt
+[33mc7d349c[m HEAD@{58}: commit: Create 249_3.txt
+[33m62d32f9[m HEAD@{59}: commit: Create 248_4.txt
+[33mc51833e[m HEAD@{60}: commit: Create 247_3.txt
+[33m3c04f1e[m HEAD@{61}: commit: Create 246_3.txt
+[33m16fad8f[m HEAD@{62}: commit: Create 245_1.txt
+[33mf66e337[m HEAD@{63}: commit: Create 244_4.txt
+[33m2521e2c[m HEAD@{64}: commit: Create 243_3.txt
+[33m26a3105[m HEAD@{65}: commit: Create 241_1.txt
+[33m51337a8[m HEAD@{66}: commit: Create 242_1.txt
+[33md2c1738[m HEAD@{67}: commit: Create 240_1.txt
+[33m4bc4552[m HEAD@{68}: commit: Create 23_3.txt
+[33md81b05e[m HEAD@{69}: commit: Create 239_2.txt
+[33ma034628[m HEAD@{70}: commit: Create 238_4.txt
+[33ma27ddba[m HEAD@{71}: commit: Create 237_1.txt
+[33m5ffe7fb[m HEAD@{72}: commit: Create 236_1.txt
+[33m6596b84[m HEAD@{73}: commit: Create 235_1.txt
+[33mb035f2e[m HEAD@{74}: commit: Create 233_1.txt
+[33ma392794[m HEAD@{75}: commit: Create 234_1.txt
+[33m82561a8[m HEAD@{76}: commit: Create 232_1.txt
+[33mae99567[m HEAD@{77}: commit: Create 231_1.txt
+[33m7a96c7a[m HEAD@{78}: commit: Create 230_2.txt
+[33m9766201[m HEAD@{79}: commit: Create 22_1.txt
+[33mf264cbb[m HEAD@{80}: commit: Create 229_1.txt
+[33m4701de7[m HEAD@{81}: commit: Create 228_1.txt
+[33m83629ab[m HEAD@{82}: commit: Create 227_1.txt
+[33m449bc0e[m HEAD@{83}: commit: Create 226_4.txt
+[33m040f938[m HEAD@{84}: commit: Create 225_2.txt
+[33md584cf5[m HEAD@{85}: commit: Create 224_4.txt
+[33m2c79536[m HEAD@{86}: commit: Create 223_1.txt
+[33ma91f5b4[m HEAD@{87}: commit: Create 222_1.txt
+[33mf5ab2b7[m HEAD@{88}: commit: Create 220_4.txt
+[33m62c5463[m HEAD@{89}: commit: Create 221_4.txt
+[33mb959326[m HEAD@{90}: commit: Create 219_2.txt
+[33mb1ce12f[m HEAD@{91}: commit: Create 21_4.txt
+[33ma527d3a[m HEAD@{92}: commit: Create 218_4.txt
+[33mfdaf4c9[m HEAD@{93}: commit: Create 216_4.txt
+[33m079afc4[m HEAD@{94}: commit: Create 217_3.txt
+[33m5f7cf39[m HEAD@{95}: commit: Create 215_4.txt
+[33mea9e1fb[m HEAD@{96}: commit: Create 213_4.txt
+[33m958df61[m HEAD@{97}: commit: Create 214_4.txt
+[33m98254cd[m HEAD@{98}: commit: Create 212_4.txt
+[33m251dd95[m HEAD@{99}: commit: Create 211_4.txt
+[33md998cce[m HEAD@{100}: commit: Create 210_4.txt
+[33m90c0e61[m HEAD@{101}: commit: Create 20_1.txt
+[33m2882717[m HEAD@{102}: commit: Create 208_1.txt
+[33mdc50692[m HEAD@{103}: commit: Create 209_1.txt
+[33m55f2c23[m HEAD@{104}: commit: Create 206_2.txt
+[33m091aeb1[m HEAD@{105}: commit: Create 207_1.txt
+[33m40cbbb2[m HEAD@{106}: commit: Create 205_4.txt
+[33m64e9d8a[m HEAD@{107}: commit: Create 204_4.txt
+[33mac4ce7a[m HEAD@{108}: commit: Create 203_1.txt
+[33mf03ac02[m HEAD@{109}: commit: Create 201_4.txt
+[33meb18522[m HEAD@{110}: commit: Create 202_2.txt
+[33m8b14fce[m HEAD@{111}: commit: Create 200_1.txt
+[33md1a44bd[m HEAD@{112}: commit: Create 1_1.txt
+[33mce0d464[m HEAD@{113}: commit: Create 19_4.txt
+[33m43448a9[m HEAD@{114}: commit: Create 199_1.txt
+[33m55470d6[m HEAD@{115}: commit: Create 197_3.txt
+[33meb5f440[m HEAD@{116}: commit: Create 198_2.txt
+[33m1b9b582[m HEAD@{117}: commit: Create 196_3.txt
+[33m7a8364b[m HEAD@{118}: commit: Create 194_1.txt
+[33mdf0f377[m HEAD@{119}: commit: Create 195_4.txt
+[33m77b37df[m HEAD@{120}: commit: Create 192_2.txt
+[33m73b88a3[m HEAD@{121}: commit: Create 193_1.txt
+[33m0a9d4ee[m HEAD@{122}: commit: Create 191_3.txt
+[33m50d9a36[m HEAD@{123}: commit: Create 190_1.txt
+[33m56848c5[m HEAD@{124}: commit: Create 18_3.txt
+[33mdf9f0ff[m HEAD@{125}: commit: Create 189_1.txt
+[33m0b3adcc[m HEAD@{126}: commit: Create 188_1.txt
+[33m334c48b[m HEAD@{127}: commit: Create 187_2.txt
+[33m6a00f71[m HEAD@{128}: commit: Create 186_1.txt
+[33maf8e48e[m HEAD@{129}: commit: Create 185_4.txt
+[33m54ecd9d[m HEAD@{130}: commit: Create 183_3.txt
+[33m513a0ab[m HEAD@{131}: commit: Create 184_2.txt
+[33mf6221c3[m HEAD@{132}: commit: Create 182_1.txt
+[33mbf7b5f1[m HEAD@{133}: commit: Create 181_2.txt
+[33m23365eb[m HEAD@{134}: commit: Create 180_4.txt
+[33m0dc4ee9[m HEAD@{135}: commit: Create 179_3.txt
+[33me2d3f3f[m HEAD@{136}: commit: Create 17_3.txt
+[33mc40f1f7[m HEAD@{137}: commit: Create 177_1.txt
+[33me97bf2d[m HEAD@{138}: commit: Create 178_3.txt
+[33me1e8e62[m HEAD@{139}: commit: Create 175_1.txt
+[33me267064[m HEAD@{140}: commit: Create 176_4.txt
+[33me9c975d[m HEAD@{141}: commit: Create 173_3.txt
+[33m8526048[m HEAD@{142}: commit: Create 174_3.txt
+[33mb0f7720[m HEAD@{143}: commit: Create 172_1.txt
+[33m1ac983d[m HEAD@{144}: commit: Create 171_1.txt
+[33maa869d4[m HEAD@{145}: commit: Create 170_1.txt
+[33m7c5a2d5[m HEAD@{146}: commit: Create 16_3.txt
+[33me2dfcbf[m HEAD@{147}: commit: Create 167_1.txt
+[33m033b069[m HEAD@{148}: commit: Create 168_1.txt
+[33m2265949[m HEAD@{149}: commit: Create 169_1.txt
+[33mfd9d315[m HEAD@{150}: commit: Create 166_1.txt
+[33mbff87b0[m HEAD@{151}: commit: Create 164_3.txt
+[33m2c3bd57[m HEAD@{152}: commit: Create 165_4.txt
+[33m613ce92[m HEAD@{153}: commit: Create 163_4.txt
+[33m0765031[m HEAD@{154}: revert: Revert "Create 15_1.txt"
+[33m7fb24c8[m HEAD@{155}: revert: Revert "Create 160_2.txt"
+[33mee5fb60[m HEAD@{156}: revert: Revert "Create 161_2.txt"
+[33m48db8c1[m HEAD@{157}: revert: Revert "Create 162_4.txt"
+[33me66660a[m HEAD@{158}: commit: Create 162_4.txt
+[33m87afd85[m HEAD@{159}: commit: Create 161_2.txt
+[33ma3ed86c[m HEAD@{160}: commit: Create 160_2.txt
+[33m8aab92a[m HEAD@{161}: commit: Create 15_1.txt
+[33m8f29b9f[m HEAD@{162}: commit: Create 159_4.txt
+[33m156a361[m HEAD@{163}: commit: Create 158_3.txt
+[33m0161e11[m HEAD@{164}: commit: Create 157_1.txt
+[33mb52fc18[m HEAD@{165}: commit: Create 156_1.txt
+[33m78633bc[m HEAD@{166}: commit: Create 155_3.txt
+[33mcfd6cb6[m HEAD@{167}: commit: Create 154_3.txt
+[33m93542c6[m HEAD@{168}: commit: Create 153_1.txt
+[33ma8b6723[m HEAD@{169}: commit: Create 152_4.txt
+[33m77da619[m HEAD@{170}: commit: Create 151_1.txt
+[33md987e1f[m HEAD@{171}: commit: Create 150_1.txt
+[33mc7c135d[m HEAD@{172}: commit: Create 14_2.txt
+[33m0868d6a[m HEAD@{173}: commit: Create 149_1.txt
+[33m8a30761[m HEAD@{174}: commit: Create 148_2.txt
+[33m0eddaa7[m HEAD@{175}: commit: Create 147_4.txt
+[33m7ce059f[m HEAD@{176}: commit: Create 146_2.txt
+[33mb5c385f[m HEAD@{177}: commit: Create 145_2.txt
+[33m6b20daf[m HEAD@{178}: commit: Create 144_2.txt
+[33mf54e6b7[m HEAD@{179}: commit: Create 143_2.txt
+[33m6b8b8fd[m HEAD@{180}: commit: Create 142_3.txt
+[33ma2c4ab8[m HEAD@{181}: commit: Create 141_3.txt
+[33m2dc955e[m HEAD@{182}: commit: Create 140_2.txt
+[33m4ad64c5[m HEAD@{183}: commit: Create 03-Pandas Data Visualization Exercise - Solutions.ipynb
+[33mfa8dd98[m HEAD@{184}: commit: Create 02-Pandas Data Visualization Exercise.ipynb
+[33m36836ee[m HEAD@{185}: commit: Create 01-Pandas Built-in Data Visualization.ipynb
+[33mb2ad8ad[m HEAD@{186}: commit: Create 08-Seaborn Exercises - Solutions.ipynb
+[33md09151f[m HEAD@{187}: commit: Create 07-Seaborn Exercises.ipynb
+[33m2d7f8fe[m HEAD@{188}: commit: Create 06-Style and Color.ipynb
+[33m39ee935[m HEAD@{189}: commit: Create 05-Regression Plots.ipynb
+[33m4321d0b[m HEAD@{190}: commit: Create 04-Grids.ipynb
+[33mfd70cfc[m HEAD@{191}: commit: Create 03-Matrix Plots.ipynb
+[33m38e7c81[m HEAD@{192}: commit: Create 02-Categorical Plots.ipynb
+[33m34aef5b[m HEAD@{193}: commit: Create 01-Distribution Plots.ipynb
+[33m0d90886[m HEAD@{194}: commit: Create 04-Advanced Matplotlib Concepts.ipynb
+[33m97233ce[m HEAD@{195}: commit: Create 03-Matplotlib Exercises - Solutions.ipynb
+[33m00f450c[m HEAD@{196}: commit: Create 02-Matplotlib Exercises.ipynb
+[33m2ddd426[m HEAD@{197}: commit: Create 01-Matplotlib Concepts Lecture.ipynb
+[33mf5db367[m HEAD@{198}: commit: Create Salaries.csv
+[33m4ddb176[m HEAD@{199}: commit: Create Ecommerce Purchases
+[33mdceb618[m HEAD@{200}: commit: Create 04-Ecommerce Purchases Exercise - Solutions.ipynb
+[33m0062927[m HEAD@{201}: commit: Create 03-Ecommerce Purchases Exercise .ipynb
+[33m5e73d77[m HEAD@{202}: commit: Create 02-SF Salaries Exercise - Solutions.ipynb
+[33md6b4620[m HEAD@{203}: commit: Create 01-SF Salaries Exercise.ipynb
+[33mdc7bab2[m HEAD@{204}: commit: Create multi_index_example
+[33m80c24c1[m HEAD@{205}: commit: Create Excel_Sample.xlsx
+[33mdfffaa7[m HEAD@{206}: commit: Create example
+[33m1ce3f27[m HEAD@{207}: commit: Create 08-Data Input and Output.ipynb
+[33ma196b22[m HEAD@{208}: commit: Create 07-Operations.ipynb
+[33m445fdfb[m HEAD@{209}: commit: Create 05-Groupby.ipynb
+[33m3f43417[m HEAD@{210}: commit: Create 06-Merging, Joining, and Concatenating.ipynb
+[33m6d91c6d[m HEAD@{211}: commit: Create 04-Missing Data.ipynb
+[33mf52af46[m HEAD@{212}: commit: Create 03-DataFrames.ipynb
+[33mc1c2d37[m HEAD@{213}: commit: Create 02-Series.ipynb
+[33mcf26cea[m HEAD@{214}: commit: Create 01-Introduction to Pandas.ipynb
+[33m21a038f[m HEAD@{215}: commit: Create 05-Numpy Exercises - Solutions.ipynb
+[33m60a5a65[m HEAD@{216}: commit: Create 04-Numpy Exercises.ipynb
+[33m6be1f8a[m HEAD@{217}: commit: Create 03-Numpy Operations.ipynb
+[33mea8f85d[m HEAD@{218}: commit: Create 02-Numpy Indexing and Selection.ipynb
+[33m1e48a54[m HEAD@{219}: commit: Create 01-NumPy Arrays.ipynb
+[33mdf044d7[m HEAD@{220}: commit: Create 03-Python Crash Course Exercises - Solutions.ipynb
+[33m3c241e5[m HEAD@{221}: commit: Create 02-Python Crash Course Exercises.ipynb
+[33m69755dc[m HEAD@{222}: commit: Create 01-Python Crash Course.ipynb
+[33mca01bde[m HEAD@{223}: commit: Create 00-Welcome to the Course.ipynb
+[33m605d699[m HEAD@{224}: commit: Create 13_2.txt
+[33m96bd93c[m HEAD@{225}: commit: Create 139_4.txt
+[33mae68d8c[m HEAD@{226}: commit: Create 138_4.txt
+[33m449c316[m HEAD@{227}: commit: Create 137_4.txt
+[33m54c71fa[m HEAD@{228}: commit: Create 136_4.txt
+[33mce557be[m HEAD@{229}: commit: Create 135_4.txt
+[33m41dc767[m HEAD@{230}: commit: Create 134_2.txt
+[33mb321968[m HEAD@{231}: commit: Create 133_2.txt
+[33m70b66ad[m HEAD@{232}: commit: Create 132_3.txt
+[33m3ba4444[m HEAD@{233}: commit: Create 131_4.txt
+[33m89eea50[m HEAD@{234}: commit: Create 130_1.txt
+[33me83e228[m HEAD@{235}: commit: Create 12_1.txt
+[33m918e8b3[m HEAD@{236}: commit: Create 129_3.txt
+[33mdda1d30[m HEAD@{237}: commit: Create 128_4.txt
+[33mc49e79e[m HEAD@{238}: commit: Create 127_4.txt
+[33m19efba7[m HEAD@{239}: commit: Create 126_1.txt
+[33m16a9435[m HEAD@{240}: commit: Create 124_2.txt
+[33m543cbb9[m HEAD@{241}: commit: Create 125_1.txt
+[33m8cd7fa3[m HEAD@{242}: commit: Create 123_1.txt
+[33m4183bd2[m HEAD@{243}: commit: Create 122_1.txt
+[33mdea8a9d[m HEAD@{244}: commit: Create 121_4.txt
+[33mb264ace[m HEAD@{245}: commit: Create 120_1.txt
+[33m30bc822[m HEAD@{246}: commit: Create 119_4.txt
+[33mf3d3e84[m HEAD@{247}: commit: Create 11_3.txt
+[33m066cdbb[m HEAD@{248}: commit: Create 118_2.txt
+[33m878a55d[m HEAD@{249}: commit: Create 117_3.txt
+[33m11424cc[m HEAD@{250}: commit: Create 116_1.txt
+[33m7d5a083[m HEAD@{251}: commit: Create 115_2.txt
+[33m03b9447[m HEAD@{252}: commit: Create 114_4.txt
+[33m0484dc8[m HEAD@{253}: commit: Create 113_4.txt
+[33me2f55d6[m HEAD@{254}: commit: Create 112_1.txt
+[33me3bebda[m HEAD@{255}: commit: Create 111_4.txt
+[33m7c9f330[m HEAD@{256}: commit: Create 110_1.txt
+[33m2f8ec5e[m HEAD@{257}: commit: Create 10_2.txt
+[33m6a17464[m HEAD@{258}: commit: Create 109_2.txt
+[33ma7240b0[m HEAD@{259}: commit: Create 108_1.txt
+[33m01464ed[m HEAD@{260}: commit: Create 107_2.txt
+[33m6ad5dee[m HEAD@{261}: commit: Create 105_2.txt
+[33m04e8a05[m HEAD@{262}: commit: Create 106_2.txt
+[33m8c50a52[m HEAD@{263}: commit: Create 104_3.txt
+[33m68e46d3[m HEAD@{264}: commit: Create 103_1.txt
+[33mee38ff7[m HEAD@{265}: commit: Create 102_1.txt
+[33mf43136b[m HEAD@{266}: commit: Create 101_1.txt
+[33md1b0bfe[m HEAD@{267}: commit: Create 100_3.txt
+[33mfdd7561[m HEAD@{268}: commit: Create 0_3.txt
+[33m5949d3d[m HEAD@{269}: commit: Create NLTK and Data preprocessing-checkpoint.ipynb
+[33ma941e66[m HEAD@{270}: commit: Create Data Consolidate-checkpoint.ipynb
+[33m7dcdef5[m HEAD@{271}: commit: Delete .DS_Store
+[33m5f116e9[m HEAD@{272}: commit: Create Day 16 - NLTK and Data Preprocessing.png
+[33m3339fd7[m HEAD@{273}: commit: Create Day 15- Logistic Regression.png
+[33mf97ef89[m HEAD@{274}: commit: Day 15 - Linear Regression
+[33m148a54c[m HEAD@{275}: commit: Create Day 14 - Regression using Scikit Learn.png
+[33m73ee6d8[m HEAD@{276}: commit: Create Day 13 - Regression.png
+[33m196d687[m HEAD@{277}: commit: Day - 14 Linear Regression
+[33m65b50a7[m HEAD@{278}: commit: Create Day 12 - ML Basics.png
+[33mb8008ba[m HEAD@{279}: commit: Day -13
+[33mdda205d[m HEAD@{280}: commit: Day 11 Pandas Syllabus
+[33me08429b[m HEAD@{281}: commit: Day 11 Pandas
+[33mc0abc17[m HEAD@{282}: commit: Create Day 10 - Classes And Objects.png
+[33m9f04c62[m HEAD@{283}: commit: Day 10
+[33m086b659[m HEAD@{284}: commit: Day 8-9 Syllabus
+[33mf22299d[m HEAD@{285}: commit: Day 9

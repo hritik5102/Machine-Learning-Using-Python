@@ -1,0 +1,43 @@
+    def createBatFile(self):
+        import getpass
+        import os
+
+        PROFILE_NAME = getpass.getuser()  # to get current user profile name
+        BAT_PATH = r"C:\Users\{}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\login.bat".format(
+            PROFILE_NAME)
+        EXE_PATH = os.path.abspath(__file__)
+        open(BAT_PATH, "w").write(EXE_PATH)
+
+    def getConfigFilePath(self):
+        from PyQt5.QtWidgets import QFileDialog
+
+        options = QFileDialog.Options()
+        options |= QFileDialog.DontUseNativeDialog
+        fileName, _ = QFileDialog.getOpenFileName(MainWindow,"QFileDialog.getOpenFileName()", "","All Files (*);;Python Files (*.py)", options=options)
+        if fileName:
+            return fileName
+        return ""
+
+    def readConfig(self):
+        import csv
+
+        try:
+            CONFIG_FILE_PATH = open("configpath.txt", "r").read()   # read config file path from txt file
+
+        except:
+            CONFIG_FILE_PATH = self.getConfigFilePath()
+	    open("configpath.txt", "w").write(CONFIG_FILE_PATH)
+            self.createBatFile()    # create .bat at Startup Folder
+  
+            exit()
+
+        try:
+            data = csv.DictReader(open(CONFIG_FILE_PATH))
+        except:
+            print("Config File Not found...")
+            exit()
+
+        for one in data:  # Converting csv to dict obj
+            for key in one.keys():
+                config[key] = one[key]
+            break
